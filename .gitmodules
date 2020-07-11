@@ -1,0 +1,6 @@
+[submodule "linux/metasploit-framework"]
+	path = linux/metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework
+[submodule "linux/ROADtools"]
+	path = linux/ROADtools
+	url = https://github.com/dirkjanm/ROADtools
